@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hej, Vinterbetong här
+I'm a Swedish developer with an interest in front-end development. Very aesthetically and graphically-minded. <br />
+User experience and interesting interfaces are my top priority ;) <br />
 
-<!--
-**vinterbetong/vinterbetong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently
+<b>What's in my head:</b>
+- Lots of experience with HTML & CSS. <br />
+- Currently learning C#, JavaScript & React. <br />
+- Also wrapping my head around Git, haha. <br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>What I'm working on:</b>
+- In the planning stages for a dice-rolling app for a TTRPG as a way to grow my skills. <br />
