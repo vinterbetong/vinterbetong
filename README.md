@@ -6,7 +6,8 @@ User experience and interesting interfaces are my top priority ;) <br />
 <b>What's in my head:</b>
 - Lots of experience with HTML & CSS. <br />
 - Currently learning C#, JavaScript & React. <br />
-- Also wrapping my head around Git, haha. <br />
+- Also wrapping my head around Git, PHP and Docker. <br />
 
 <b>What I'm working on:</b>
-- In the planning stages for a dice-rolling app for a TTRPG as a way to grow my skills. <br />
+- Deepening expertise in React and UX/UI design.
+- Expanding my portfolio <br />
